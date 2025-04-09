@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://shluqu.github.io/rss.xml
+Sitemap: https://cds820.github.io/rss.xml
